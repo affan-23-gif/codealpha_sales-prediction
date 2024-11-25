@@ -9,3 +9,14 @@ Sales prediction with Python is a powerful tool that businesses can use to forec
 ### Radio: Amount spent on Radio advertising (in thousands of dollars).
 ### Newspaper: Amount spent on Newspaper advertising (in thousands of dollars).
 ### Sales: Sales figures (in thousands of units) corresponding to the advertising spend.
+
+
+
+## Overview
+### Data Size: The dataset contains 200 rows and 5 columns.
+### Usability: It has been rated with usability metrics, indicating its quality and usefulness for various analyses.
+### Tags: The dataset is tagged under Business, which suggests it is often used for business-related analyses, such as sales forecasting based on advertising expenditures.
+
+## Related Analysis
+### Predictive Modeling: You can build regression models to predict sales based on the spending in TV, Radio, and Newspapers.
+### Feature Importance: Analyze which advertising channels have the most significant impact on sales.
